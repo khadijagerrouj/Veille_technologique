@@ -1,12 +1,26 @@
-# Liste des veille technologie :
-- Done :  
-    - Définition de veille technologie  (Khadija Gerouj)
-    - Agent AI   (Omar Moutalie)
-    - Ai agent skills  (ibrahim medkour)
+# Liste des veille technologie :  
+    - Liste des veille technologie :
+    - Définition de veille technologie (Khadija Gerrouj)
+    - Agent AI  (Omar Moutalie)
+    - Ai agent skills (ibrahim medkour)
     - MCP  (Mohamed Dghar)
-    - Claude Code For Free  (Ayoub Amaghouch)
-
-- Not Done : 
-    - 1:opencode(mohammed yassir mesbahi)
-    - 2: RAG (badreddine Hammam)
-	- 3: SOLID (Mesbahi Nour)
+    - Claude Code For Free (Ayoub Amaghouch)
+    - opencode(mohammed yassir mesbahi)
+    - RAG (badreddine Hammam)
+    - Jira (tasnim)
+    - Sprint-Jalon (Aziza)
+    - ORM (Aymane)
+    - Alpine JS (Ayoub)
+    - React (mohammed yassir mesbahi)
+    - Kotlin (Nour)
+    - PHP native (Yasser)
+    - Mobile (soukaina)
+    - mongoDB (Mohamed Dghar)
+    - Angular (Ayoub)
+    - Vue (Ayoub)
+    - Docker (Mounir)
+    - AWS (oumaima)
+    - DEVOPS (mohammed yassir mesbahi)
+    - Reseau (ayoub)
+    - Linux (Mohamed Dghar)
+    - Debugging Tools(khadija gerrouj)
